@@ -12,3 +12,9 @@
 config/
 
 .env
+
+src/Entity/
+
+src/Repository/
+
+src/Security/
